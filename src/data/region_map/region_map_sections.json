@@ -130,7 +130,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_101",
-      "name": "ROUTE 101",
+      "name": "ROUTE 301",
       "x": 4,
       "y": 10,
       "width": 1,
@@ -1702,6 +1702,9 @@
       "y": 4,
       "width": 1,
       "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_301"
     }
   ]
 }
