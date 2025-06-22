@@ -34,7 +34,8 @@
     "gMapGroup_IndoorRoute123",
     "gMapGroup_IndoorRoute119",
     "gMapGroup_IndoorRoute124",
-    "gMapGroup_IndoorRoute301"
+    "gMapGroup_IndoorRoute301",
+    "gMapGroup_IndoorDesertPath"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -624,5 +625,6 @@
   ],
   "gMapGroup_IndoorRoute301": [
     "DesertTower"
-  ]
+  ],
+  "gMapGroup_IndoorDesertPath": []
 }
